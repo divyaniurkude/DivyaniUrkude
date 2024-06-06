@@ -1,4 +1,4 @@
-![logo](https://github.com/divyaniurkude/Divyani-Urkude/blob/main/img.jpeg)
+![logo](https://github.com/divyaniurkude/DivyaniUrkude/blob/main/img.jpeg)
 <h1 align="center">Hi 👋, I'm Divyani Urkude</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
