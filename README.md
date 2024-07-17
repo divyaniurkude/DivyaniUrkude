@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://divyaniurkude.github.io/](https://divyaniurkude.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/divyaniurkude](https://github.com/divyaniurkude)
 
 - 💬 Ask me about **Java,HTML,CSS,JavaScript,Reactjs,Material UI,Redux and MySQL.**
 
 - 📫 How to reach me **urkudedivyani9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yROTfoH_RGAAzyQw9nRTnG6uquDnzE4A/view?usp=drive_link](https://drive.google.com/file/d/1yROTfoH_RGAAzyQw9nRTnG6uquDnzE4A/view?usp=drive_link)
+- 📄 Know about my experiences [https://divyaniurkude.github.io/MyPortfolio/](https://divyaniurkude.github.io/MyPortfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
