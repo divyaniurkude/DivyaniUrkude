@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaniurkude&label=Profile%20views&color=0e75b6&style=flat" alt="divyaniurkude" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://divyaniurkude.github.io/ProfileCard/](https://divyaniurkude.github.io/ProfileCard/)
+- 👨‍💻 All of my projects are available at [https://divyaniurkude.github.io/](https://divyaniurkude.github.io/)
 
 - 💬 Ask me about **Java,HTML,CSS,JavaScript,Reactjs,Material UI,Redux and MySQL.**
 
